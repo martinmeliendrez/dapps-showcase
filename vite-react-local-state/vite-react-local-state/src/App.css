@@ -22,3 +22,10 @@
 .providers button img {
   width: 2em;
 }
+
+.mmError {
+  height: 36px;
+  padding: 16px;
+  color: #efefef;
+  background-color: transparent;
+}
